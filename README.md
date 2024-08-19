@@ -9,5 +9,5 @@ The goal was to use the variance from the moving averages on various commodities
 training-room is where the model is trained and predictions are made and scored.
 
 stockripper takes all of the stock data and saves it into a .pkl file to keep API calls to a minimum.
-Feature extraction is a sample file to call data from the .pkl data file created by stockripper.
+historic_Feature_extraction is a sample file to call data from the .pkl data file created by stockripper.
 
